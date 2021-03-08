@@ -2,7 +2,14 @@
 
 ---
  ## Description
-  Community-Chest fridge's offer free food — from fresh produce to home-cooked meals — along with sanitary products and other health-related supplies to communities in need, no questions asked.
+Community fridges offer free food to those who need it— from fresh produce to home-cooked meals — along with sanitary products and other health-related supplies to communities in need, no questions asked. While they’ve been around for years, community fridges have recently gotten more attention as a way for people to support each other in pandemic times. With our application Community Chest, it makes the maintaining and operation of a community fridge easier by;
+- Allowing users to add their location to connect them to a network of community fridges. 
+-  Access controlled inventory management allowing items to be created, updated and deleted.
+- Access controlled location management allowing users to fully manage the creation and editing of new locations. 
+-  Allows users of the community to view items in a location before making the trip to the community fridge. 
+-  Resources available to users to allow them the information to implement community fridges ihn their own neighborhoods.
+
+
   
   
   Visit us at [Community-chest](https://community-chest134.herokuapp.com/)     
