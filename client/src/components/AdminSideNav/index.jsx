@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import M from 'materialize-css'
 import { useEffect } from 'react'
 import Logo from "../../assets/images/logo.png"
+import "../AdminSideNav/style.css"
 
 const AdminSideNav = ({ admin }) => {
   useEffect(() => {
@@ -10,7 +11,7 @@ const AdminSideNav = ({ admin }) => {
   }, [])
   return (
     <>
-      <nav>
+      <nav id="navbar">
         <a href='/#' className='brand-logo center'>
           <img alt='community chest logo' src={Logo} width='46%' />
         </a>

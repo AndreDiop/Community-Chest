@@ -9,7 +9,7 @@ const Sidenav = () => {
   }, [])
   return (
     <>
-      <nav> 
+      <nav id="navbar"> 
       <a href="#" className="brand-logo center"><img alt="community chest logo"src={Logo} width="46%"/></a>
       </nav>
 
